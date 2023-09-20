@@ -1,0 +1,5 @@
+Fname = input("what is your firstname ")
+Sname = input("what is your surname ")
+name = len(Fname)+len(Sname)
+name = int(name)
+print(name)
