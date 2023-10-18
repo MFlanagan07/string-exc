@@ -1,0 +1,7 @@
+fn = input("enter your name ")
+print(len(fn))
+sn = input("enter your surname ")
+print(len(sn))
+fnsn =len(fn+sn)
+fnsn = int(fnsn)
+print(fn,sn,fnsn + 1)
